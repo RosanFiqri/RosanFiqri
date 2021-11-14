@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RosanFiqri a Data Analyst who always eager to learn
 - 👀 I’m interested in Data Analytics, Soccer, Badminton, and Reading Manga
-- 🌱 I’m currently learning English, Statistics, Python
+- 🌱 I’m currently learning English (Understanding and using English Grammar), Statistics (Introduction to Statistical Learning), Python (python-engineer.com) 
 - 📫 How to reach me at muhammadrosan@gmail.com or https://www.linkedin.com/in/rosanfiqri/
 
 <!---
